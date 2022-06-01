@@ -1,0 +1,35 @@
+•	First meetings - (april 20 - april 26)
+•	Brain Storming - (april 20 - may 4)
+•	Planning and initial Document Drafting - (april 27 - May 4)
+•	Document Revisions - (May 4 - june 24)
+•	Research and Development - (may 4- june 24)
+•	Project estimating - (may 5 - may 18)
+•	Project Material Canvassing - (may 20 - may 31)
+•	Marketing Introductory -(May 31 - june 10)
+•	Budgeting and Costing - (may 31 - june 15)
+•	Production planning - (May 31 - june 24)
+•	Material Acquisition - (june 30 - july 10)
+•	Material Testing - (june 30 - july 10)
+•	Finalization of Document - (June 24 - june 29) 
+
+
+•	Production and Manufacturing Execution - (july 1 - july 12)
+•	Assembly of Circuit Module - (july 1 - july 12)
+•	Assembly of whistle - (july 1 - july 12)
+•	assembly of Flashlight - (july 1 - july 12)
+•	Final Assembly Phase - (july 10 - july 12)
+•	Product release - (july 12 - july 13)
+
+•	Coding of source code to Arduino - (june 27 - june 30)
+
+
+•	Flow Chart - (may 31 - june 10)
+•	Schematic Diagram - (may 31 - june 10)
+•	Creating Blueprint - (june 15 - june 30)
+
+
+•	Product Sampling and Testing (june 15 - june 21)
+•	initial Testing - (june 15 - june 18)
+•	Quality Testing - (june 19 - june 21)
+•	Final Testing - (june 22 - june 24)
+
